@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables (copy .env.example → .env and fill in values)
+.env
+
+# SQLite database files — data persists locally but should not be committed
+data/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
